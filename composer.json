@@ -1,0 +1,14 @@
+{
+    "name": "administrator/demo",
+    "description": "my first demo",
+    "type": "project",
+    "require": {
+        "gregwar/captcha": "1.1.7"
+    },
+    "authors": [
+        {
+            "name": "laibin",
+            "email": "893801115@qq.com"
+        }
+    ]
+}
